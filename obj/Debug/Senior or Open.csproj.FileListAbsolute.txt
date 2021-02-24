@@ -1,0 +1,9 @@
+C:\Users\Seymur\Desktop\BASE-1\Senior or Open\Senior or Open\bin\Debug\Senior or Open.exe.config
+C:\Users\Seymur\Desktop\BASE-1\Senior or Open\Senior or Open\bin\Debug\Senior or Open.exe
+C:\Users\Seymur\Desktop\BASE-1\Senior or Open\Senior or Open\bin\Debug\Senior or Open.pdb
+C:\Users\Seymur\Desktop\BASE-1\Senior or Open\Senior or Open\obj\Debug\Senior or Open.csprojResolveAssemblyReference.cache
+C:\Users\Seymur\Desktop\BASE-1\Senior or Open\Senior or Open\obj\Debug\Senior_or_Open.Form1.resources
+C:\Users\Seymur\Desktop\BASE-1\Senior or Open\Senior or Open\obj\Debug\Senior_or_Open.Properties.Resources.resources
+C:\Users\Seymur\Desktop\BASE-1\Senior or Open\Senior or Open\obj\Debug\Senior or Open.csproj.GenerateResource.Cache
+C:\Users\Seymur\Desktop\BASE-1\Senior or Open\Senior or Open\obj\Debug\Senior or Open.exe
+C:\Users\Seymur\Desktop\BASE-1\Senior or Open\Senior or Open\obj\Debug\Senior or Open.pdb
